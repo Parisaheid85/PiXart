@@ -1,0 +1,16 @@
+.canvas {
+  box-sizing: border-box;
+  border: 1px pink solid;
+  cursor: cell;
+  width: 30px;
+  height: 30px;
+  padding: 0px;
+  margin: 0px;
+  float: left;
+}
+
+#canvas {
+  width: 90em;
+  height: 90em;
+  background-size: cover;
+}
